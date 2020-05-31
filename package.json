@@ -1,12 +1,12 @@
 {
-  "name": "cermati_software_engineer",
+  "name": "html_scrapper_mega",
   "version": "1.0.0",
   "description": "",
   "main": "solution.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "polipopoliko",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.2",
